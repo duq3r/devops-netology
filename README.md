@@ -12,3 +12,5 @@ first line
 
 
 Исключаются файлы конфигурации коммандной строки .terraformc и terraform.rc
+New Line
+New Line
