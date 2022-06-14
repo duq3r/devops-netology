@@ -3,6 +3,7 @@
 
 count=1
 <<<<<<< HEAD
+<<<<<<< HEAD
 for param in "$@"; do
     echo "\$@ Parameter #$count = $param"
     count=$(( $count + 1 ))
@@ -10,9 +11,3 @@ done
 
 echo "====="
 
-=======
-for param in "$*"; do
-    echo "\$* Parameter #$count = $param"
-    count=$(( $count + 1 ))
-done
->>>>>>> git-merge
