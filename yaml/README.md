@@ -104,4 +104,4 @@ print('********************')
 ```
 
 Скрин
-![Image alt][((https://github.com/duq3r/devops-netology/yaml/scrnshot.jpg))
+[![Image alt][((https://github.com/duq3r/devops-netology/yaml/scrnshot.jpg))](https://github.com/duq3r/devops-netology/blob/main/yaml/scrnshot.jpg)
