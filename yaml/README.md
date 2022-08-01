@@ -22,8 +22,9 @@
             }
         ]
     }
-
+    ```
     Ответ:
+    ```
         { "info" : "Sample JSON output from our service\t",
         "elements" :[
             { "name" : "first",
